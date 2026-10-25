@@ -1,0 +1,10 @@
+/launchpad /#/launchpad 302
+/pages /#/pages 302
+/ai-studio /#/ai-studio 302
+/login /#/login 302
+/signup /#/signup 302
+/launchpad/submit /#/launchpad?tab=submit 302
+/account /#/account 302
+/deploy /#/launchpad?tab=deploy 302
+/submit /#/launchpad?tab=submit 302
+/pages/editor /#/pages/editor 302
